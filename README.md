@@ -12,7 +12,7 @@ Portfólio car: modelo de regressão linear para estimar o preço de um carro co
 
 Portfólio sonar rock vs mine prediction: modelo de classificação para prever se um objeto é uma pedra (R) ou uma mina (M).
 
-Portfólio clusterização: 
+Portfólio clusterização: modelo de cluster (agrupamento) de clientes com base no consumo de energia.
 
 Portfólio vinho: comparação de vários modelos de classificação para determinar a qualidade de um vinho com base na sua composição.
 
