@@ -8,6 +8,15 @@ Dataset sonar rock vs mine prédiction: https://drive.google.com/file/d/1pQxtljl
 Dataset vinho: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 Breve explicação dos projetos:
-Portfólio car: modelo de para estimar o preço de um carro com base nos quilômetros rodados,valor atual, tipo de câmbio e tipo de vendedor e dono.
+Portfólio car: modelo de regressão linear para estimar o preço de um carro com base nos quilômetros rodados,valor atual, tipo de câmbio e tipo de vendedor e dono.
 
-Portfólio sonar rock vs mine prediction: modelo de classificação para prever se um objeto é uma pedra ou uma mina.
+Portfólio sonar rock vs mine prediction: modelo de classificação para prever se um objeto é uma pedra (R) ou uma mina (M).
+
+Portfólio clusterização: 
+
+Portfólio vinho: comparação de vários modelos de classificação para determinar a qualidade de um vinho com base na sua composição.
+
+Portfólio movie recommendation: modelo de classificação para sugerir filmes relacionados ao avaliado que o espectador também pode gostar com base nas avaliações dos espectadores.
+
+Portfólio índice de satisfação dos clientes: modelo de classificação para determinar a satisfação dos clientes (0 para insatisfeito e 1 para satisfeito).
+
