@@ -21,3 +21,4 @@ Portfólio movie recommendation: modelo de classificação para sugerir filmes r
 
 Portfólio índice de satisfação dos clientes: modelo de classificação para determinar a satisfação dos clientes (0 para insatisfeito e 1 para satisfeito).
 
+Titanic Analysis: modelo de classificação utilizando o dataset do Titanic para prever quais dos passageiros sobreviveram ou não, sendo 1 para quem sobreviveu e 0 para quem não sobreviveu.
