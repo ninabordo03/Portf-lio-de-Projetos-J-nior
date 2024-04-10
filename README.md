@@ -24,3 +24,5 @@ Portfólio índice de satisfação dos clientes: modelo de classificação para 
 Titanic Analysis: modelo de classificação utilizando o dataset do Titanic para prever quais dos passageiros sobreviveram ou não, sendo 1 para quem sobreviveu e 0 para quem não sobreviveu, com base em dados como sexo, porto no qual o passageiro embarcou e valor da tarifa.
 
 California housing: modelo de regressão linear para prever o valor das casas na Califórnia com base em dados como latitude, longitude, quantidade de cômodos e salário do comprador.
+
+Fraud detection: modelo de classificação para identificar se houve fraude (1) ou não (0) no cartão de crédito.
