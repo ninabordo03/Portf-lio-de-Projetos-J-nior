@@ -26,3 +26,5 @@ Titanic Analysis: modelo de classificação utilizando o dataset do Titanic para
 California housing: modelo de regressão linear para prever o valor das casas na Califórnia com base em dados como latitude, longitude, quantidade de cômodos e salário do comprador.
 
 Fraud detection: modelo de classificação para identificar se houve fraude (1) ou não (0) no cartão de crédito.
+
+Penguin Classification: modelo de classificação para determinar o sexo de um pinguim com base em informações tais como a ilha de onde ele é proveniente, a espécie e a massa corporal.
