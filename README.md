@@ -28,3 +28,6 @@ California housing: modelo de regressão linear para prever o valor das casas na
 Fraud detection: modelo de classificação para identificar se houve fraude (1) ou não (0) no cartão de crédito.
 
 Penguin Classification: modelo de classificação para determinar o sexo de um pinguim com base em informações tais como a ilha de onde ele é proveniente, a espécie e a massa corporal.
+
+MNIST with Keras: modelo de Deep Learning de classificação para reconhecer dígitos escritos manualmente.
+
